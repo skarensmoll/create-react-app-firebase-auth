@@ -1,4 +1,4 @@
-# [BoilerPlate] React Create App / Firebase Authenticator 
+# ::BoilerPlate:: React Create App / Firebase Authenticator 
 
 ### Libraries :package: 
 
