@@ -4,7 +4,7 @@ import classes from './Buttons.module.css';
 const GoogleButton = ({onClick, children})=> {
   return (
     <>
-      <div role="button" onClick={onClick} className={classes.GoogleButton}>
+      <div role="button" onClick={onClick} className={classes.googleButton}>
         <img src={Google} alt='Google Logo' />
         {children}
       </div>
